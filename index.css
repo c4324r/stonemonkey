@@ -1,0 +1,116 @@
+html{
+    background-color: #B4D2BA;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Logo{
+    width: 150px;
+}
+#main-pic{
+    width: 100%;
+}
+#navbar{
+    position: fixed;
+    background-color: #8ED081;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#nav-elm{
+    padding: 10px 0px 0px 0px;
+    display: flex;
+    list-style-type: none;
+}
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 0px 20px;
+    font-size: 22px;
+}
+li{
+    list-style-type: none;
+}
+#header{
+    background-color: #B57F50;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+#header h1{
+    font-size: 60px;
+}
+#header h2{
+    font-style: italic;
+}
+#header #buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+#menu{
+    background-color: #DCE2AA;
+    text-align: center;
+}
+#order{
+    background-color: white;
+    text-align: center;
+    width: 80%;
+    border-radius: 25px;
+    margin: auto;
+}
+#footer{
+    background-color: #4B543B;
+    text-align: center;
+    color: white;
+}
+#contacts{
+    display: flex;
+    justify-content: space-evenly;
+}
+#prices{
+    background-color: #B4D2BA;
+    text-align: center;
+}
+#single-items{
+    display: flex;
+    justify-content: space-evenly;
+}
+#menu-group{
+    display: flex;
+    justify-content: space-evenly;
+}
+#item-group{
+    display: flex;
+    flex-direction: column;
+}
+#food{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+#page-search{
+    display: flex;
+    justify-content: space-evenly;
+}
+#paragraph{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo-full{
+    width: 100%;
+}
+#additional_info{
+    color: green;
+}
+#sauce_pic{
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height: 15%;
+}
+#cards{
+    color: blue;
+}
